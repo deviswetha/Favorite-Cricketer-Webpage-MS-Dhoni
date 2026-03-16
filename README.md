@@ -5,10 +5,17 @@ This project is a simple and responsive webpage dedicated to my favorite cricket
 The webpage includes sections such as a navigation bar, player introduction, image gallery, and information about Dhoni’s career and achievements. The design focuses on clean layout, readable content, and basic responsive styling.
 
 Technologies Used
+
 => HTML5
+
 => CSS3
+
 => Features
+
 => Structured navigation bar
+
 => Player biography section
+
 => Image gallery
+
 => Styled layout using CSS
